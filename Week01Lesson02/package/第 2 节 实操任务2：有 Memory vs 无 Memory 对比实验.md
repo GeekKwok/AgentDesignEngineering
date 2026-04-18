@@ -23,10 +23,10 @@ opencode
 
 |检查项|期望（有 Memory）|实际|
 |:----|:----|:----|
-|命名风格|snake_case||
-|有没有 docstring|有（Google 风格）||
-|有没有用 print()|不用，用 logging||
-|文件放在哪个目录|按项目结构放置||
+|命名风格|snake_case| ✅ |
+|有没有 docstring|有（Google 风格）| ✅ |
+|有没有用 print()|不用，用 logging| ❌ |
+|文件放在哪个目录|按项目结构放置| ✅ |
 
 
 ---
